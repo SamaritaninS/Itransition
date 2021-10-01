@@ -1,0 +1,13 @@
+C:\Home\Itransition\task3\task3\task3\bin\Debug\netcoreapp3.1\task3.exe
+C:\Home\Itransition\task3\task3\task3\bin\Debug\netcoreapp3.1\task3.deps.json
+C:\Home\Itransition\task3\task3\task3\bin\Debug\netcoreapp3.1\task3.runtimeconfig.json
+C:\Home\Itransition\task3\task3\task3\bin\Debug\netcoreapp3.1\task3.runtimeconfig.dev.json
+C:\Home\Itransition\task3\task3\task3\bin\Debug\netcoreapp3.1\task3.dll
+C:\Home\Itransition\task3\task3\task3\bin\Debug\netcoreapp3.1\task3.pdb
+C:\Home\Itransition\task3\task3\task3\obj\Debug\netcoreapp3.1\task3.csprojAssemblyReference.cache
+C:\Home\Itransition\task3\task3\task3\obj\Debug\netcoreapp3.1\task3.AssemblyInfoInputs.cache
+C:\Home\Itransition\task3\task3\task3\obj\Debug\netcoreapp3.1\task3.AssemblyInfo.cs
+C:\Home\Itransition\task3\task3\task3\obj\Debug\netcoreapp3.1\task3.csproj.CoreCompileInputs.cache
+C:\Home\Itransition\task3\task3\task3\obj\Debug\netcoreapp3.1\task3.dll
+C:\Home\Itransition\task3\task3\task3\obj\Debug\netcoreapp3.1\task3.pdb
+C:\Home\Itransition\task3\task3\task3\obj\Debug\netcoreapp3.1\task3.genruntimeconfig.cache
